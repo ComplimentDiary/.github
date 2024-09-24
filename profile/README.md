@@ -1,12 +1,10 @@
-## Hi there 👋
+## 칭찬일기 ✨
 
-<!--
+하루하루 칭찬일기 </br>
+자신을 칭찬하는 것은 여러면에서 긍정적인 영향을 줄 수 있다.
+1. 자존감 향상
+2. 동기 부여
+3. 정신 건강
+스스로를 격려하고 칭찬하는 것은 개인적인 성장과 정신적인 안정에 중요한 역할을 함. 삭막한 삶 속에서 나 자신을 소중히 여기며 더 나은 삶을 살기 위해 칭찬일기 기획
 
-**Here are some ideas to get you started:**
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->

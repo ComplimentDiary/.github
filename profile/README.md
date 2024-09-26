@@ -8,4 +8,6 @@
 
 스스로를 격려하고 칭찬하는 것은 개인적인 성장과 정신적인 안정에 중요한 역할을 함. 삭막한 삶 속에서 나 자신을 소중히 여기며 더 나은 삶을 살기 위해 칭찬일기 기획
 
+## ERD
 
+![Untitled (1)](https://github.com/user-attachments/assets/eadfb74c-a1f4-4f9c-b5e2-c2e6314eac04)

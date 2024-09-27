@@ -10,4 +10,4 @@
 
 ## ERD
 
-![Untitled (2)](https://github.com/user-attachments/assets/600d16f1-e790-485e-a33f-988dfac33296)
+![compliment_diary](https://github.com/user-attachments/assets/8d0897f9-75a7-4469-bfa7-6e93dab3c642)
